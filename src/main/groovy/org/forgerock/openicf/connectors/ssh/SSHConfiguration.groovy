@@ -48,7 +48,7 @@ public class SSHConfiguration extends ScriptedConfiguration {
     /**
      * Enum for authentication method
      */
-    private static final enum AuthN {
+    private static enum AuthN {
         PASSWORD, PUBKEY
     }
 
