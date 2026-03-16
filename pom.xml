@@ -35,7 +35,7 @@
     </parent>
 
     <artifactId>ssh-connector</artifactId>
-    <version>1.5.3.1-SNAPSHOT</version>
+    <version>1.5.3.1</version>
     <packaging>bundle</packaging>
 
     <name>SSH Connector for Wren:ICF</name>
@@ -47,7 +47,7 @@
         <url>https://github.com/WrenSecurity/wrenicf-ssh-connector</url>
         <connection>scm:git:git://github.com/WrenSecurity/wrenicf-ssh-connector.git</connection>
         <developerConnection>scm:git:git@github.com:WrenSecurity/wrenicf-ssh-connector.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>1.5.3.1</tag>
     </scm>
 
     <distributionManagement>
